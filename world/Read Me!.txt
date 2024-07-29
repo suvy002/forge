@@ -1,0 +1,74 @@
+CHANGELOG
+-------------------
+
+April 8th, 2015
+
+* All doors get replaced with the new door types
+* Added "Read me" and "Easter Eggs" books in the spawn building. Credits signs have been updated as well
+* Some pressure plates used to decorate furnitures have been replaced by carpets
+* Fixed a spawn issue where the player was appearing at the wrong place
+* Fixed a bug related to sandstone slabs disapearing in newest game versions
+* Fixed a lighting bug in the isolation cells of the block D
+
+May 16th, 2014
+
+* Addied redstone systems for each cell block, to open cells door.
+* Added glowstone lamps on celling of each cell with new redstone systems to turn on/off the light.
+* Updated each cell to make them look like the original cells.
+* Updated utility corridors inside cell blocks.
+* Increased the height of the main cellhouse.
+* Updated the signs in the boat (spawn).
+
+August 17th, 2013
+
+* Replacing all clay on the ground by cyan stained clay
+* Replacing obsidian blocks by coal blocks in the coal reserve (Power house)
+* Replacing wood pressure plates by brown carpets on furnitures
+* Replacing snow blocks by quartz blocks in shower room
+* Updated the ferry to fix issues with spawn point
+* Filling of some empty spaces behind walls
+
+April 26th, 2013
+
+* Updated the lighthouse with daylight sensor
+* Updated the redstone system of the boiler (from The Rock)
+* Added some signs on the island
+
+January 19th, 2013
+
+* Fixed more double stone slabs
+* Fixed missing maps from last update
+
+January 19th, 2013
+
+* Fixed double stone slabs transformed into netherbrick slabs.
+
+
+
+CREDITS
+-------------------
+
+
+
+"Alcatraz Island", a Minecraft map by AnthroMiners (Jaff62 and Ash_Killer).
+
+Special thanks to: Julermine, grobourrin, YOhtna21, Angel-NekoX, Cyberpopol, secave and heleis59.
+
+
+
+
+
+
+
+FOLLOW US
+
+-------------------
+
+
+
+Youtube: http://www.youtube.com/user/AnthroMinersFR/
+
+Facebook: http://www.facebook.com/Anthrominers/
+
+Tumblr: http://www.anthrominers.tumblr.com/
+Planet-Minecraft: http://www.planetminecraft.com/member/leyoshimetalleux/
